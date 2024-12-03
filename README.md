@@ -1,2 +1,3 @@
 # testrepo
-This repository has been created as a part of practice for IBM Data Analytics p`rogram
+## Editing the file
+This repository has been created as a part of practice for IBM Data Analytics program
